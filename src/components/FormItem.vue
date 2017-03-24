@@ -1,4 +1,4 @@
-<!-- /components/FormItem.vue -->
+<!-- scr/components/FormItem.vue -->
 <template>
   <form class="form-horizontal" v-on:submit.prevent="onSubmit">
     <fieldset>
